@@ -15,4 +15,4 @@ In the "logstash.conf" file, define the configuration for Logstash to parse the 
 
 Use Docker Compose to start the services.
 
-# docker-compose up
+"docker-compose up"
