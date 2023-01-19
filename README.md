@@ -1,7 +1,7 @@
 # SIEM
-Built a basic SIEM using Docker Compose and the Elastic Stack, Nginx web proxy, and a test web application
+Built a basic SIEM using Docker Compose and the Elastic Stack, Nginx web proxy, and a test web application.
 
-To build a basic SIEM using Docker Compose and the Elastic Stack, Nginx web proxy, and a test web application, you can follow these steps:
+Steps:
 
 Create a new directory for your project and navigate to it in the terminal.
 
